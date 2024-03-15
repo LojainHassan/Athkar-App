@@ -1,2 +1,3 @@
-# Athkar-App
-Athakar App
+تطبيق للاذكار 
+Athkar App
+Link : https://athkarramada.web.app/
